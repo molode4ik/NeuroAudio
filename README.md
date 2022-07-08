@@ -19,9 +19,9 @@
    - Каждый раздел содержит .wav файлы
    - <img width="87" alt="image" src="https://user-images.githubusercontent.com/91955445/177975353-75dc9687-f2c3-45b9-bc01-7c8d5015965f.png">
    
-* В переменную DATASET_PATH записать путь к загруженной папке
-* В переменную model_path записать путь для сохранения файлов модели
-  * <img width="253" alt="image" src="https://user-images.githubusercontent.com/91955445/177973093-d5f1e162-d618-418d-a53f-dd11628d5626.png">
+* В переменную DATASET_PATH записать путь к загруженной папке (По умолчанию DATASET/)
+* В переменную model_path записать путь для сохранения файлов модели (По умолчанию Model/)
+  * <img width="245" alt="image" src="https://user-images.githubusercontent.com/91955445/177981061-6899558c-885c-4b52-88b3-aadad5cf41ca.png">
 * При необходимости перезаписать частоту аудио файла (По умолчанию 8000)
   * <img width="89" alt="image" src="https://user-images.githubusercontent.com/91955445/177973507-e0335c10-5ba7-4068-9f09-2565f355dd3f.png">
 * При необходимости изменить количество эпох для обучения нейронной сети (По умолчанию 6)

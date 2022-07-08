@@ -2,9 +2,14 @@
 ## Открыть файл .ipynb в [Google Colab](https://colab.research.google.com/)
 1. Открыть вкладку менджмента папок
 2. ПКМ по пустому пространству
-3. Загрузить папку с обучающими файлами
-   - Папка должна содержать в себе аудиофайлы разделенные на группы по словам (В каждой папке только одно слово)
    * <img width="387" alt="some" src="https://user-images.githubusercontent.com/91955445/177967673-4c48615c-f44e-4a33-8308-e1fb2d30abcd.png">
+3. Загрузить папку с обучающими файлами
+   - <img width="88" alt="image" src="https://user-images.githubusercontent.com/91955445/177975095-aad6c567-ecf0-4cc4-badf-638b131a382b.png">
+   - Папка должна быть разделена на подразделы по словам
+   - <img width="104" alt="image" src="https://user-images.githubusercontent.com/91955445/177975210-156e8428-c17a-4f88-b121-5ca885eb85c5.png">
+   - Каждый раздел содержит .wav файлы
+   - <img width="87" alt="image" src="https://user-images.githubusercontent.com/91955445/177975353-75dc9687-f2c3-45b9-bc01-7c8d5015965f.png">
+   
 * В переменную DATASET_PATH записать путь к загруженной папке
 * В переменную model_path записать путь для сохранения файлов модели
   * <img width="253" alt="image" src="https://user-images.githubusercontent.com/91955445/177973093-d5f1e162-d618-418d-a53f-dd11628d5626.png">
